@@ -1,3 +1,5 @@
+[![CI](https://github.com/andriikasparevych/string-to-number/actions/workflows/ci.yml/badge.svg)](https://github.com/andriikasparevych/string-to-number/actions/workflows/ci.yml)
+
 # string-to-number NPM Package
 
 The **string-to-number** package is a simple yet powerful utility for converting strings to numbers in TypeScript. This package aims to provide an effortless way to handle string-to-number conversions, catering to scenarios where data parsing and transformation are a common requirement.
