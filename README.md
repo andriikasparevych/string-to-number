@@ -15,7 +15,7 @@ The **string-to-number** package is a simple yet powerful utility for converting
 You can easily install the package via NPM using the following command:
 
 ```bash
-npm install string-to-number
+npm install ts-string-to-number
 ```
 
 ## Usage
