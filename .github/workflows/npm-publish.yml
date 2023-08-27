@@ -17,8 +17,8 @@ jobs:
           node-version: '*'
       - run: |
           npm ci 
-          npm build
-      - run: npm test
+          npm run build
+      - run: npm run test
 
   publish-npm:
     needs: build
