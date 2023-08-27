@@ -1,0 +1,30 @@
+{
+  "name": "string-to-number",
+  "version": "1.0.0",
+  "description": "The **string-to-number** package is a simple yet powerful utility for converting strings to numbers in TypeScript. This package aims to provide an effortless way to handle string-to-number conversions, catering to scenarios where data parsing and transformation are a common requirement.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:andriikasparevych/string-to-number.git"
+  },
+  "keywords": [
+    "string",
+    "number",
+    "float",
+    "int",
+    "integer",
+    "parse",
+    "convert"
+  ],
+  "author": "Andrii Kasparevych <andrewkasparevich@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
