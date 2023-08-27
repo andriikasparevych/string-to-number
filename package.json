@@ -8,6 +8,9 @@
     "build": "tsc",
     "test": "jest"
   },
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github-personal:andriikasparevych/string-to-number.git"
