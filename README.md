@@ -20,10 +20,10 @@ npm install string-to-number
 
 ## Usage
 
-Using the **string-to-number** package is straightforward. Import the package and call the `convertToNumber` function with your desired string input:
+Using the **ts-string-to-number** package is straightforward. Import the package and call the `convertToNumber` function with your desired string input:
 
 ```typescript
-import { convertToNumber } from 'string-to-number';
+import { convertToNumber } from 'ts-string-to-number';
 
 const stringNumber = '42';
 const numericValue = convertToNumber(stringNumber);
@@ -38,7 +38,7 @@ console.log(numericValue); // Outputs: 42 (number)
 
 ## Contribution
 
-Contributions to the **string-to-number** package are welcome! Feel free to open issues for suggestions, bug reports, or feature requests. Pull requests are encouraged for those who want to directly contribute to the project's development.
+Contributions to the **ts-string-to-number** package are welcome! Feel free to open issues for suggestions, bug reports, or feature requests. Pull requests are encouraged for those who want to directly contribute to the project's development.
 
 ## License
 

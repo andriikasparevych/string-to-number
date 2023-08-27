@@ -1,7 +1,7 @@
 {
-  "name": "string-to-number",
+  "name": "ts-string-to-number",
   "version": "1.0.0",
-  "description": "The **string-to-number** package is a simple yet powerful utility for converting strings to numbers in TypeScript. This package aims to provide an effortless way to handle string-to-number conversions, catering to scenarios where data parsing and transformation are a common requirement.",
+  "description": "The **ts-string-to-number** package is a simple yet powerful utility for converting strings to numbers in TypeScript. This package aims to provide an effortless way to handle string-to-number conversions, catering to scenarios where data parsing and transformation are a common requirement.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
